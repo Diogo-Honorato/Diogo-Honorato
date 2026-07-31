@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=BD93F9&center=false&vCenter=true&width=600&height=35&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Computer+Science+Student;Curioso+por+natureza%2C+aprendo+construindo;Curious+by+nature%2C+I+learn+by+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=BC13FE&center=false&vCenter=true&width=600&height=35&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Computer+Science+Student;Curioso+por+natureza%2C+aprendo+construindo;Curious+by+nature%2C+I+learn+by+building" alt="Typing SVG" />
 
 Me chamo Diogo Honorato, estudante de Ciência da Computação na UFSJ (Universidade Federal de São João del-Rei), a maior parte do que sei hoje veio de me jogar em projetos reais e ir aprendendo no processo, curioso por natureza, sempre querendo entender como as coisas funcionam por trás dos panos.
 
@@ -20,28 +20,28 @@ My name is Diogo Honorato, a Computer Science student at UFSJ (Federal Universit
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Diogo-Honorato?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Diogo-Honorato?color=bc13fe&style=for-the-badge&labelColor=190a2e&logo=star&label=estrelas&logoColor=00fff9"
         />
     </a>
     <a href="https://github.com/Diogo-Honorato?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Diogo-Honorato?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Diogo-Honorato?color=00fff9&labelColor=190a2e&style=for-the-badge&logo=github&label=Seguidores&logoColor=bc13fe"
         />
     </a>
     <a href="https://www.linkedin.com/in/diogo-honorato-389985262">
         <img 
             alt="LinkedIn" 
             title="Me siga no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-190a2e?style=for-the-badge&logo=linkedin&logoColor=00fff9"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🖥️ <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=BC13FE&center=false&vCenter=true&width=420&height=30&repeat=true&lines=Linguagens+e+Tecnologias;Languages+and+Technologies" alt="Typing SVG" valign="middle" />
 
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -62,7 +62,7 @@ My name is Diogo Honorato, a Computer Science student at UFSJ (Federal Universit
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🗠 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=BC13FE&center=false&vCenter=true&width=280&height=30&repeat=true&lines=Estat%C3%ADsticas;Statistics" alt="Typing SVG" valign="middle" />
 
 <p>
   <img 
@@ -70,14 +70,14 @@ My name is Diogo Honorato, a Computer Science student at UFSJ (Federal Universit
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://gh-stats-diogo.vercel.app/api?username=Diogo-Honorato&show_icons=true&theme=midnight-purple&include_all_commits=true&card_width=380&bg_color=190a2e&title_color=bc13fe&custom_title=Diogo-Honorato%27s+GitHub+Stats" 
+    src="https://gh-stats-diogo.vercel.app/api?username=Diogo-Honorato&show_icons=true&theme=midnight-purple&include_all_commits=true&card_width=380&bg_color=190a2e&title_color=bc13fe&icon_color=00fff9&text_color=e0e0e0&custom_title=Diogo-Honorato%27s+GitHub+Stats" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://gh-stats-diogo.vercel.app/api/top-langs/?username=Diogo-Honorato&theme=midnight-purple&layout=compact&custom_title=Most+Used+Languages&langs_count=9&card_width=380&bg_color=190a2e&title_color=bc13fe" 
+      src="https://gh-stats-diogo.vercel.app/api/top-langs/?username=Diogo-Honorato&theme=midnight-purple&layout=compact&custom_title=Most+Used+Languages&langs_count=9&card_width=380&bg_color=190a2e&title_color=bc13fe&text_color=e0e0e0" 
   />
 
 </p>
