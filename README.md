@@ -11,7 +11,7 @@ Me chamo Diogo Honorato, estudante de Ciência da Computação na UFSJ (Universi
 <summary>🇬🇧 Read in English</summary>
 <br>
 
-My name is Diogo Honorato, a Computer Science student at UFSJ (Federal University of São João del-Rei). Most of what I know today came from diving into real projects and learning along the way, curious by nature, always trying to understand how things work behind the scenes.
+My name is Diogo Honorato, a Computer Science student at UFSJ (Federal University of São João del-Rei). Most of what I know today came from diving into real projects and learning along the way — curious by nature, always trying to understand how things work behind the scenes.
 
 </details>
 
@@ -41,7 +41,7 @@ My name is Diogo Honorato, a Computer Science student at UFSJ (Federal Universit
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -70,14 +70,14 @@ My name is Diogo Honorato, a Computer Science student at UFSJ (Federal Universit
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Diogo-Honorato&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://gh-stats-diogo.vercel.app/api?username=Diogo-Honorato&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Honorato&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://gh-stats-diogo.vercel.app/api/top-langs/?username=Diogo-Honorato&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
