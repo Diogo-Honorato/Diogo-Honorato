@@ -70,14 +70,14 @@ My name is Diogo Honorato, a Computer Science student at UFSJ (Federal Universit
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://gh-stats-diogo.vercel.app/api?username=Diogo-Honorato&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://gh-stats-diogo.vercel.app/api?username=Diogo-Honorato&show_icons=true&theme=midnight-purple&include_all_commits=true&card_width=380&bg_color=190a2e&title_color=bc13fe&custom_title=Diogo-Honorato%27s+GitHub+Stats" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://gh-stats-diogo.vercel.app/api/top-langs/?username=Diogo-Honorato&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://gh-stats-diogo.vercel.app/api/top-langs/?username=Diogo-Honorato&theme=midnight-purple&layout=compact&custom_title=Most+Used+Languages&langs_count=9&card_width=380&bg_color=190a2e&title_color=bc13fe" 
   />
 
 </p>
